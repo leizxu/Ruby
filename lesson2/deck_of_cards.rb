@@ -56,3 +56,6 @@ card = {
 	color: "black",
 	value: 14
 }
+
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHlHvdzwxcVzY3HIDC01gGp1qRlad9gmv7BiSiE+fiAV zhulei.files@gmail.com
